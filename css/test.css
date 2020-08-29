@@ -1,0 +1,32 @@
+body{
+background-image: https://sun9-60.userapi.com/LOMdhjdILKSlegn_iXOz_c7PJ7bfQaN6ecTL3g/WHOH0hR_TsA.jpg;
+background-color: lightblue
+}
+
+h1{
+color: blue;
+font-size: 90px;
+text-decoration: underline;
+}
+
+
+#first{
+font-size: 250px
+}
+
+.small{
+font-size: 12px;
+}
+
+h2{
+font-size: 22px;
+color: purple;
+}
+span{
+font-style: italic;
+}
+
+h2 span {
+font-family: fantasy;
+text-decoration: line-through;
+}
